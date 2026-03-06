@@ -48,10 +48,10 @@ The program generates a bar chart showing total sales by product.
 
 ## Project Structure
 sales-data-analysis
-│
-├── analysis.py
-├── sales_data.csv
-└── README.md
+
+- ├──analysis.py
+- ├──sales_data.csv
+- ├──README.md
 
 
 ## Author
