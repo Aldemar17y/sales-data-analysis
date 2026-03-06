@@ -51,6 +51,7 @@ sales-data-analysis
 
 - ├──analysis.py
 - ├──sales_data.csv
+- ├── sales_chart.png
 - ├──README.md
 
 
