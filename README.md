@@ -59,3 +59,6 @@ sales-data-analysis
 
 Raúl Aldemar Macías  
 Mechatronics Engineering Student interested in Data Analysis.
+## Visualization
+
+![Sales Chart](sales_chart.png)
